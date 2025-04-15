@@ -14,7 +14,6 @@ These problems are especially useful in real-world systems design, low-level pro
 
 | Difficulty | Problem Title                                | Code Link                                                                                          | Company Tags        |
 |------------|-----------------------------------------------|-----------------------------------------------------------------------------------------------------|---------------------|
-| Easy       | Find Celebrity                                | [Link](https://leetcode.com/problems/find-celebrity/)                                              | Amazon              |
 | Easy       | Pascal's Triangle                             | [Link](https://leetcode.com/problems/pascals-triangle/)                                            | Apple               |
 | Easy       | Hamming Distance                              | [Link](https://leetcode.com/problems/hamming-distance/description/)                                | LinkedIn, Adobe     |
 | Easy       | Task Scheduler                                | [Link](https://leetcode.com/problems/task-scheduler/)                                              | Netflix             |
