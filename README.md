@@ -10,8 +10,7 @@ These problems are especially useful in real-world systems design, low-level pro
 - They require combining multiple concepts, such as hash maps with linked lists or binary search with greedy strategies.
 - They often appear in system design-oriented interviews.
 
-
-
+### LeetCode Problem
 
 | Difficulty | Problem Title                                | Code Link                                                                                          | Company Tags        |
 |------------|-----------------------------------------------|-----------------------------------------------------------------------------------------------------|---------------------|
