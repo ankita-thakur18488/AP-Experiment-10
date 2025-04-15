@@ -12,6 +12,7 @@ These problems are especially useful in real-world systems design, low-level pro
 
 
 
+
 | Difficulty | Problem Title                                | Code Link                                                                                          | Company Tags        |
 |------------|-----------------------------------------------|-----------------------------------------------------------------------------------------------------|---------------------|
 | Easy       | Pascal's Triangle                             | [Link](https://leetcode.com/problems/pascals-triangle/)                                            | Apple               |
